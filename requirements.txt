@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+sqlalchemy
+phidata-sdk  # Placeholder for your storage handling library
+requests
+phidata
